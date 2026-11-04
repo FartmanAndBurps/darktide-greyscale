@@ -1,0 +1,5 @@
+{
+  "name": "Darktide Greyscale",
+  "description": "Experimental gameplay-camera desaturation; does not recolour enemies.",
+  "version": "0.1.1"
+}

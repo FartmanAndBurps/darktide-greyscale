@@ -1,0 +1,40 @@
+{
+  "Aussiemon/Darktide-Source-Code": {
+    "commit": "e46b8926cfa3fa35503e4b80b15aab7a804314e4",
+    "files": {
+      "scripts/managers/camera/camera_manager.lua": {
+        "url": "https://raw.githubusercontent.com/Aussiemon/Darktide-Source-Code/e46b8926cfa3fa35503e4b80b15aab7a804314e4/scripts/managers/camera/camera_manager.lua",
+        "sha256": "210988ed10a0107d4c495f0852e908c83ffc82ed7fd2d02f62ee7fd36346fbfc"
+      },
+      "scripts/managers/ui/ui_world_spawner.lua": {
+        "url": "https://raw.githubusercontent.com/Aussiemon/Darktide-Source-Code/e46b8926cfa3fa35503e4b80b15aab7a804314e4/scripts/managers/ui/ui_world_spawner.lua",
+        "sha256": "545f06d897c59225f637f09a4045403b273ca04edfe831d8b11c445b75bb5846"
+      }
+    }
+  },
+  "Darktide-Mod-Framework/Darktide-Mod-Framework": {
+    "commit": "0107475ee51f07af2957b72fdf09b83e0b114791",
+    "files": {
+      "dmf/scripts/mods/dmf/modules/core/hooks.lua": {
+        "url": "https://raw.githubusercontent.com/Darktide-Mod-Framework/Darktide-Mod-Framework/0107475ee51f07af2957b72fdf09b83e0b114791/dmf/scripts/mods/dmf/modules/core/hooks.lua",
+        "sha256": "8f6439700ac6c6af9bce003122317bc37263509e061d7d67eb842d06e130da09"
+      },
+      "dmf/scripts/mods/dmf/modules/core/events.lua": {
+        "url": "https://raw.githubusercontent.com/Darktide-Mod-Framework/Darktide-Mod-Framework/0107475ee51f07af2957b72fdf09b83e0b114791/dmf/scripts/mods/dmf/modules/core/events.lua",
+        "sha256": "244231f05b832bbb8c66fa67b15109c9f8d943213bf4a2c44282a8f0ffacff68"
+      },
+      "dmf/scripts/mods/dmf/modules/core/toggling.lua": {
+        "url": "https://raw.githubusercontent.com/Darktide-Mod-Framework/Darktide-Mod-Framework/0107475ee51f07af2957b72fdf09b83e0b114791/dmf/scripts/mods/dmf/modules/core/toggling.lua",
+        "sha256": "fab007a3bf83e2a055cfbbf25c6f89c96f9bd5fcdf4dfe1ec9ab6e027f5144c4"
+      },
+      "dmf/scripts/mods/dmf/modules/core/options.lua": {
+        "url": "https://raw.githubusercontent.com/Darktide-Mod-Framework/Darktide-Mod-Framework/0107475ee51f07af2957b72fdf09b83e0b114791/dmf/scripts/mods/dmf/modules/core/options.lua",
+        "sha256": "a874e2b13d8db44f541832999acafdaa278411682ec0d39739a742ab4614dbbe"
+      },
+      "dmf/scripts/mods/dmf/modules/ui/options/mod_options.lua": {
+        "url": "https://raw.githubusercontent.com/Darktide-Mod-Framework/Darktide-Mod-Framework/0107475ee51f07af2957b72fdf09b83e0b114791/dmf/scripts/mods/dmf/modules/ui/options/mod_options.lua",
+        "sha256": "9807cbff16053e1dcfceb1a28fd9e37a93620c923b906b1efd5ffa87670db59f"
+      }
+    }
+  }
+}
