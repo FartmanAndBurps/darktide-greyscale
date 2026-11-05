@@ -1,5 +1,7 @@
 # Darktide Greyscale
 
+![Darktide Greyscale comparison](screenshots/darktide_greyscale_1_to_4.gif)
+
 A small Darktide Mod Framework mod that desaturates the gameplay view in **Warhammer 40,000: Darktide**. Use it for a muted world, less colour clutter, or a Chromatix-inspired appearance alongside coloured enemy outlines.
 
 - Adjustable desaturation from **0–100%**, in **5% steps**.
